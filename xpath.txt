@@ -1,0 +1,7 @@
+#easiest way but fails on name change 
+absolute xpath
+/bookstore/book[2]/author
+
+#won't be affected by root name change
+relative xpath
+//*/book[2]/author
