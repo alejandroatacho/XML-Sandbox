@@ -1,0 +1,11 @@
+<Program>
+    <Event>
+        <StartTime units="us">5</StartTime>
+        <LaserOn channel="Hene Laser"/>
+        <LaserOn channel="TiSaph Laser"/>
+    </Event>
+    <Event>
+        <StartTime units="ms">15</StartTime>
+        <LaserOff channel="HeNe Laser"/>
+    </Event>
+</Program> 
